@@ -35,5 +35,3 @@ I share clean, well-documented projects and notebooks so you can clone → run �
 🌱 Currently seeking **internship or Master's thesis opportunities** in applied AI/ML, predictive analytics, medical/industrial data science, or MLOps – especially in Germany/Europe.
 
 Love to connect — reach out for collaborations, project feedback, or just a chat about data & ML!
-
-## Featured Projects Below
