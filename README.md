@@ -26,10 +26,14 @@ I share clean, well-documented projects and notebooks so you can clone → run �
 
 ## About Me
 
-• M.Sc. Data Science @ TU Braunschweig (Grade 2.0) | B.E. Information Technology @ University of Mumbai (CGPA 8.72/10)
+• M.Sc. Data Science @ TU Braunschweig | B.E. Information Technology @ University of Mumbai
+
 • Data Science & Azure ML Working Student @ Ingenieurbüro Dr.-Ing. Eugen Koch (real-time medical AI)
+
 • IT Coordinator @ Institut für Philosophie, TU Braunschweig
+
 • Core Skills: Python (pandas, scikit-learn, PyTorch, TensorFlow), Time-Series/Signal Processing, Azure ML, Docker, Tableau/Power BI
+
 • Languages: English (C1), German (B1 in progress)
 
 🌱 Currently seeking **internship or Master's thesis opportunities** in applied AI/ML, predictive analytics, medical/industrial data science, or MLOps – especially in Germany/Europe.
