@@ -1,48 +1,47 @@
-Hi, I'm Atharv 👋
+![Banner](banner.png)
+<!-- Replace with your chosen banner URL, e.g. https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png -->
 
-I'm an M.Sc. Data Science student at TU Braunschweig, passionate about building **practical, real-world ML systems** — especially low-latency pipelines, time-series analysis, and signal processing in medical & industrial applications.
+# Hi, I'm Atharv 👋
 
-With 2+ years of hands-on experience as a working student, I focus on end-to-end solutions: from high-frequency sensor data processing to Azure MLOps deployments. I love turning complex data challenges into efficient, deployable models.
+I'm an M.Sc. Data Science student at TU Braunschweig building **practical, real-world ML systems** that solve tough problems in medical devices, time-series forecasting, and industrial applications.
 
-Most of my work is **code-first and reproducible**: clean notebooks, optimized pipelines, and dashboards you can run right away.
+Most of my work is hands-on: optimized low-latency pipelines, reproducible code, and deployable models using Python, PyTorch, Azure ML, and signal processing tools. I focus on turning raw sensor data into reliable, high-performance solutions.
 
-What I work on
+I share clean, well-documented projects and notebooks so you can clone → run → learn or extend right away.
 
-* **Real-time Signal Processing**: <15ms latency respiratory detection for neonatal ventilators (SciPy, NumPy, PyQtGraph)
-* **Time-Series & Predictive Modeling**: Forecasting delays, financial trends, and apnea events
-* **Computer Vision**: YOLOv8-based traffic object detection for robotics/surveillance
-* **MLOps & Cloud**: Azure ML pipelines, HyperDrive tuning, Docker, CI/CD
-* **Domain Applications**: Medical devices, aviation delays, sentiment analysis on social data
-* **Ready-to-run Projects**: Clone → install → explore (with Streamlit dashboards where possible)
+## What I work on
 
-Featured Projects
+• Real-time signal processing & low-latency systems (<15ms respiratory detection for neonatal ventilators)
+• Time-series analysis & predictive modeling (airline delays, financial trends, apnea events)
+• Computer vision (YOLOv8 traffic object detection for robotics & surveillance)
+• MLOps on Azure (pipelines, HyperDrive tuning, Docker, CI/CD)
+• Applied AI domains: medical devices, aviation, finance, sentiment analysis
+• Ready-to-run projects with Streamlit/PyQtGraph dashboards and notebooks
 
-* **Real-Time Neonatal Ventilator Triggering System**  
-  Engineered low-latency signal pipeline with adaptive filtering and fail-safe controls. Live diagnostic dashboard included.
+## Featured Projects
 
-* **Predictive Modeling for Airline Network Delays** (Ongoing)  
-  ETL on massive BTS flight data + weather integration for pre-departure risk scoring.
+• **Real-Time Neonatal Ventilator Triggering System** – High-frequency signal pipeline with adaptive filtering and fail-safe controls
+• **Predictive Modeling for Airline Network Delays** (Ongoing) – ETL on massive flight data + weather fusion for risk scoring
+• **Real-Time Traffic Object Detection with YOLOv8** – End-to-end detection in video streams, deployable for autonomous systems
+• **AI Job Anxiety: Sentiment Analysis on Reddit** – Hybrid model improving accuracy ~25%, insights on tech layoffs
+• **Algorithmic Financial Forecasting** – Azure-native pipeline with tsfresh features and walk-forward validation
+• **Online Certificate Generation & Verification System** – Secure platform published in IRJMETS (2022)
 
-* **Real-Time Traffic Object Detection with YOLOv8**  
-  End-to-end detection of vehicles & pedestrians in video streams — deployable for autonomous systems.
+## About Me
 
-* **AI Job Anxiety: Sentiment Analysis on Reddit**  
-  Hybrid lexicon + context-aware model boosting accuracy ~25%; insights on tech layoffs.
+• M.Sc. Data Science @ TU Braunschweig (Grade 2.0) | B.E. Information Technology @ University of Mumbai (CGPA 8.72/10)
+• Data Science & Azure ML Working Student @ Ingenieurbüro Dr.-Ing. Eugen Koch (real-time medical AI)
+• IT Coordinator @ Institut für Philosophie, TU Braunschweig
+• Core Skills: Python (pandas, scikit-learn, PyTorch, TensorFlow), Time-Series/Signal Processing, Azure ML, Docker, Tableau/Power BI
+• Languages: English (C1), German (B1 in progress)
 
-* **Algorithmic Financial Forecasting**  
-  Cloud-native Azure pipeline with tsfresh features, Random Forest, and walk-forward validation.
+🌱 Currently seeking **internship or Master's thesis opportunities** in applied AI/ML, predictive analytics, medical/industrial data science, or MLOps – especially in Germany/Europe.
 
-* **Online Certificate Generation & Verification System** (Published in IRJMETS 2022)  
-  Secure C#/ASP.NET platform with AES-256 encryption.
+Love to connect — reach out for collaborations, project feedback, or just a chat about data & ML!
 
-About Me
+<!-- Optional: Add these badges below for extra polish -->
 
-* M.Sc. Data Science @ TU Braunschweig (Grade 2.0) | B.E. IT @ University of Mumbai (CGPA 8.72/10)
-* Working Student in Data Science & Azure ML @ Ingenieurbüro Dr.-Ing. Eugen Koch (real-time medical AI)
-* IT Coordinator @ Institut für Philosophie, TU Braunschweig
-* Skills: Python (pandas, scikit-learn, PyTorch, TensorFlow), Time-Series/Signal Processing, Azure ML, Docker, Tableau/Power BI
-* Languages: English (C1), German (B1 in progress), Hindi/Marathi (native)
-
-🌱 Currently seeking **internship or Master's thesis opportunities** in applied AI/ML, predictive analytics, or medical/industrial data science in Germany/Europe.
-
-I'd love to connect — feel free to reach out for collaborations, thesis ideas, or just a chat about data!
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" />
+</p>
