@@ -1,6 +1,3 @@
-![Banner](banner.png)
-<!-- Replace with your chosen banner URL, e.g. https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png -->
-
 # Hi, I'm Atharv 👋
 
 I'm an M.Sc. Data Science student at TU Braunschweig building **practical, real-world ML systems** that solve tough problems in medical devices, time-series forecasting, and industrial applications.
@@ -38,10 +35,3 @@ I share clean, well-documented projects and notebooks so you can clone → run �
 🌱 Currently seeking **internship or Master's thesis opportunities** in applied AI/ML, predictive analytics, medical/industrial data science, or MLOps – especially in Germany/Europe.
 
 Love to connect — reach out for collaborations, project feedback, or just a chat about data & ML!
-
-<!-- Optional: Add these badges below for extra polish -->
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" />
-</p>
