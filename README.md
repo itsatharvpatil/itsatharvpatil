@@ -6,13 +6,18 @@ Most of my work is hands-on: optimized low-latency pipelines, reproducible code,
 
 I share clean, well-documented projects and notebooks so you can clone → run → learn or extend right away.
 
-## What I work on
+## What I've worked on
 
 • Real-time signal processing & low-latency systems (<15ms respiratory detection for neonatal ventilators)
+
 • Time-series analysis & predictive modeling (airline delays, financial trends, apnea events)
+
 • Computer vision (YOLOv8 traffic object detection for robotics & surveillance)
+
 • MLOps on Azure (pipelines, HyperDrive tuning, Docker, CI/CD)
+
 • Applied AI domains: medical devices, aviation, finance, sentiment analysis
+
 • Ready-to-run projects with Streamlit/PyQtGraph dashboards and notebooks
 
 ## About Me
