@@ -15,15 +15,6 @@ I share clean, well-documented projects and notebooks so you can clone → run �
 • Applied AI domains: medical devices, aviation, finance, sentiment analysis
 • Ready-to-run projects with Streamlit/PyQtGraph dashboards and notebooks
 
-## Featured Projects
-
-• **Real-Time Neonatal Ventilator Triggering System** – High-frequency signal pipeline with adaptive filtering and fail-safe controls
-• **Predictive Modeling for Airline Network Delays** (Ongoing) – ETL on massive flight data + weather fusion for risk scoring
-• **Real-Time Traffic Object Detection with YOLOv8** – End-to-end detection in video streams, deployable for autonomous systems
-• **AI Job Anxiety: Sentiment Analysis on Reddit** – Hybrid model improving accuracy ~25%, insights on tech layoffs
-• **Algorithmic Financial Forecasting** – Azure-native pipeline with tsfresh features and walk-forward validation
-• **Online Certificate Generation & Verification System** – Secure platform published in IRJMETS (2022)
-
 ## About Me
 
 • M.Sc. Data Science @ TU Braunschweig | B.E. Information Technology @ University of Mumbai
@@ -39,3 +30,5 @@ I share clean, well-documented projects and notebooks so you can clone → run �
 🌱 Currently seeking **internship or Master's thesis opportunities** in applied AI/ML, predictive analytics, medical/industrial data science, or MLOps – especially in Germany/Europe.
 
 Love to connect — reach out for collaborations, project feedback, or just a chat about data & ML!
+
+## Featured Projects Below
